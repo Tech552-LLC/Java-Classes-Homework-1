@@ -21,14 +21,18 @@ Practice Classes Day One
 - instance variable/property : artist;
 - method1: setTitle;
 - method2: play;
-- method3: favoriteTrack
+- method3: favoriteTrack.
+>
 The favoriteTrack Methods takes in an array of song  titles and returns the second to the last track in the array.
-for example : String[] trackttiles = {"track1","track2","track3"}. 
+>
+>for example : String[] trackttiles = {"track1","track2","track3"}. 
+>
 Track 2 is obviously the second to the last track. BUT if i decide to pass in an array with more tracks like
- - String[] trackttiles = {"track1","track2","track3",,"track4"}.
--  The second to the last track in this case is Track 3. Make sense? if not, ask questions
+>String[] trackttiles = {"track1","track2","track3",,"track4"}.
+>
+The second to the last track in this case is Track 3. Make sense? if not, ask questions
 
--  NOTE: If i use your favoriteTrack method in main, it should work no matter how many track titles are given/passed to your method when used in main.
+-  *NOTE*: If i use your favoriteTrack method in main, it should work no matter how many track titles are given/passed to your method when used in main.
 - Create a song object in main and call the 3 methods on it
 
 # Create a Bicycle Class
