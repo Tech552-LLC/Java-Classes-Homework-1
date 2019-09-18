@@ -2,9 +2,9 @@
 Practice Classes Day One
 # Classes Homework
 -  Square class with the following instance variables and methods
-** instance variable/property : length;
-** method: calculateArea
-** Create a square object in main and call the method on it
+  instance variable/property : length;
+  method: calculateArea
+  Create a square object in main and call the method on it
 
 -  Circle class with the following instance variables and methods
 instance variable/property : radius;
@@ -12,15 +12,15 @@ method: calculateArea
 Create a circle object in main and call the method on it
 
 -  Triangle class with the following instance variables and methods
-**instance variable/property : radius;**
-**method: calculatePerimeter();**
-**Create a triangle object in main and call the method on it**
+instance variable/property : radius;
+method: calculatePerimeter();
+Create a triangle object in main and call the method on it
 
 -  Song class with the following instance variables and methods
-**instance variable/property : title;**
-**instance variable/property : artist;**
-**method1: setTitle;**
-**method2: play;**
+instance variable/property : title;
+instance variable/property : artist;
+method1: setTitle;
+method2: play;
 
 method3: favoriteTrack
 the favoriteTrack Methods takes in an array of song  titles and returns the second to the last track in the array.
@@ -42,5 +42,5 @@ method1: speedUp, takes in a speed amount and increases the current speed by the
 
 Create a Bike object and use each method on it
 
--  Finally!!!!
+- Finally!!!!
 Type out the Guessing Game on page 38 to 40. Have a good weekend!!!
