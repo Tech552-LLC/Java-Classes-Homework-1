@@ -12,15 +12,15 @@ method: calculateArea
 Create a circle object in main and call the method on it
 
 -  Triangle class with the following instance variables and methods
-** instance variable/property : radius;
-** method: calculatePerimeter();
-** Create a triangle object in main and call the method on it
+**instance variable/property : radius;**
+**method: calculatePerimeter();**
+**Create a triangle object in main and call the method on it**
 
 -  Song class with the following instance variables and methods
-instance variable/property : title;
-instance variable/property : artist;
-method1: setTitle;
-method2: play;
+**instance variable/property : title;**
+**instance variable/property : artist;**
+**method1: setTitle;**
+**method2: play;**
 
 method3: favoriteTrack
 the favoriteTrack Methods takes in an array of song  titles and returns the second to the last track in the array.
