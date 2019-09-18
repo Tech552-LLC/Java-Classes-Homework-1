@@ -2,9 +2,9 @@
 Practice Classes Day One
 # Classes Homework
 -  Square class with the following instance variables and methods
-instance variable/property : length;
-method: calculateArea
-Create a square object in main and call the method on it
+**instance variable/property : length;
+**method: calculateArea
+**Create a square object in main and call the method on it
 
 -  Circle class with the following instance variables and methods
 instance variable/property : radius;
@@ -12,9 +12,9 @@ method: calculateArea
 Create a circle object in main and call the method on it
 
 -  Triangle class with the following instance variables and methods
-instance variable/property : radius;
-method: calculatePerimeter();
-Create a triangle object in main and call the method on it
+**instance variable/property : radius;
+**method: calculatePerimeter();
+**Create a triangle object in main and call the method on it
 
 -  Song class with the following instance variables and methods
 instance variable/property : title;
