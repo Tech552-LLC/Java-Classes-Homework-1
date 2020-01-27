@@ -48,3 +48,5 @@ The second to the last track in this case is Track 3. Make sense? if not, ask qu
 
 - Finally!!!!
 Type out the Guessing Game on page 38 to 40. Have a good weekend!!!
+
+[![Run on Repl.it](https://repl.it/badge/github/Tech552-LLC/Java-Classes-Homework-1)](https://repl.it/github/Tech552-LLC/Java-Classes-Homework-1)
